@@ -1,0 +1,15 @@
+$ionicons-font-path: "~ionic-sdk/release/fonts" !default;
+
+@import "styles/variables";
+
+@import "styles/ionic-variables-override";
+
+@import "~ionic-sdk/scss/ionic";
+
+@import "styles/general";
+
+// components
+@import 'styles/components/custom-list';
+
+// views
+@import "views/home/home";

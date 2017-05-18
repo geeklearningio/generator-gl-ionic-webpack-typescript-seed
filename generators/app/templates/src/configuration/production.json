@@ -1,0 +1,5 @@
+{
+  "name": "prod",
+  "debug": false,
+  "appId": "gl.ionic.seed.prod"
+}

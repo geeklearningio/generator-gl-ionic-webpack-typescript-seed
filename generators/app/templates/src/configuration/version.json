@@ -1,0 +1,28 @@
+﻿{
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0,
+    "preReleaseTag": "localDev.0",
+    "preReleaseTagWithDash": "-localDev.0",
+    "preReleaseLabel": "localDev",
+    "preReleaseNumber": 0,
+    "buildMetaData": "",
+    "buildMetaDataPadded": "",
+    "fullBuildMetaData": "Branch.develop.Sha.fca546a79f0956988a2e0ad20fa204084fc8d0f9",
+    "majorMinorPatch": "0.0.0",
+    "semVer": "0.0.0-localDev.0",
+    "legacySemVer": "0.0.0-localDev0",
+    "legacySemVerPadded": "0.0.0-localDev0000",
+    "assemblySemVer": "0.0.0.0",
+    "fullSemVer": "0.0.0-localDev.0",
+    "informationalVersion": "0.0.0-localDev.0+Branch.develop.Sha.fca546a79f0956988a2e0ad20fa204084fc8d0f9",
+    "branchName": "develop",
+    "sha": "fca546a79f0956988a2e0ad20fa204084fc8d0f9",
+    "nuGetVersionV2": "0.0.0-localDev0000",
+    "nuGetVersion": "0.0.0-localDev0000",
+    "commitsSinceVersionSource": 0,
+    "commitsSinceVersionSourcePadded": "0000",
+    "commitDate": "2000-01-01"
+  }
+}

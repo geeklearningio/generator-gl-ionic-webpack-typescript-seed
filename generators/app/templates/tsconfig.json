@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "removeComments": false,
+    "module": "commonjs"
+  },
+  "exclude": [
+    "node_modules",
+    "www",
+    "platforms",
+    "plugins",
+    "typings"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Geek Learning",
+      "authorEmail": "hello@geeklearning.io",
+      "authorUrl": "geeklearning.io"
+    }
+  }
+}
