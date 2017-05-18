@@ -26,7 +26,7 @@ Because it does exactly what we wanted : fast developpment AND production ready 
 
 ### Installation
 
-### CLIs
+#### CLIs
 We need some CLis installed as global packages :
 - **Yeoman**: To run this generator.
 - **Cordova**: To build your Cordova app.
@@ -35,7 +35,7 @@ We need some CLis installed as global packages :
 npm install -g yo cordova typings
 ```
 
-### Run the generator
+#### Run the generator
 Install this generator using npm:
 ```
 npm install generator-gl-ionic-webpack-typescript-seed
@@ -48,7 +48,7 @@ yo gl-ionic-webpack-typescript-seed
 
 ### What to do from here?
 
-### Useful NPM scripts
+#### Useful NPM scripts
 - **serve**: Creates a local instance of your app running on your default browser. Everytime you change your code, the page is automatically reloaded.
 - **build:development**: Build your development app to test it on a real device or an emulator. The sourcemaps are here and your code is not minified. Everything you need to debug your app.
 - **build:production**: Everything is minified and ready to go to production.
@@ -60,7 +60,7 @@ npm run the-script
 
 - **Serve**: Creates a local instance of your app running on your default browser. Everytime you change your code, the page is automatically reloaded.
 
-### Cordova: add and build your platforms
+#### Cordova: add and build your platforms
 No Cordova platforms are specified in this seed. You can add and build your own like always:
 ```
 cordova platforms add ios
