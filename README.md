@@ -1,4 +1,4 @@
-# gl-ionic-webpack-typescript-seed-generator
+# generator-gl-ionic-webpack-typescript-seed
 All the things needed to make an awesome Ionic App built with Webpack and Typescript.
 
 ## Why another generator? And Why Ionic 1?
