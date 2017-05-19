@@ -28,7 +28,6 @@
     "gl-angular-configuration": "git+https://github.com/geeklearningio/gl-angular-configuration.git",
     "ionic-sdk": "^1.2.4",
     "moment": "^2.18.1",
-    "typescript": "^2.3.2",
-    "typings": "^2.1.1"
+    "ng-cordova": "^0.1.27-alpha"
   }
 }
