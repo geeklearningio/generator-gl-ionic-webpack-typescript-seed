@@ -43,7 +43,8 @@ var baseConfigFunction = function () {
             preLoaders: [
                 {
                     test: /\.ts$/,
-                    loader: 'tslint-loader'
+                    loader: 'tslint-loader',
+                    exclude: /node_modules/
                 }
             ],
             loaders: [
