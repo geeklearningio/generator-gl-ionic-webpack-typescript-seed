@@ -1,6 +1,6 @@
 {
   "name": "generator-gl-ionic-webpack-typescript-seed",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "All the things needed to make an awesome Ionic App built with Webpack and Typescript",
   "homepage": "https://github.com/geeklearningio/generator-gl-ionic-webpack-typescript-seed",
   "author": {
