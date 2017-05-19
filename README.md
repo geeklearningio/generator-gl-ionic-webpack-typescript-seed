@@ -26,13 +26,11 @@ Because it does exactly what we wanted : fast developpment AND production ready 
 
 ### Installation
 
-#### CLIs
-We need some CLis installed as global packages :
+#### Yeoman CLI
+We need the Yeoman CLi installed as a global package :
 - **Yeoman**: To run this generator.
-- **Cordova**: To build your Cordova app.
-- **Typings**: To manage Typescript typings. For more information: https://github.com/typings/typings
 ```
-npm install -g yo cordova typings
+npm install -g yo
 ```
 
 #### Run the generator
@@ -68,3 +66,5 @@ cordova platforms add ios
 ```
 cordova build ios
 ```
+#### Typings
+Add or update typings with Typings. For more information: https://github.com/typings/typings
