@@ -1,6 +1,6 @@
 {
   "name": "gl-ionic-webpack-seed",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "All the things needed to make an awesome Ionic App built with Webpack and Typescript",
   "scripts": {
     "serve": "npm-run-all --parallel fastcss webpack:watch",
