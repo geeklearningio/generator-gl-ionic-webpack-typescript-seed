@@ -36,7 +36,7 @@ npm install -g yo
 #### Run the generator
 Install this generator using npm:
 ```
-npm install generator-gl-ionic-webpack-typescript-seed
+npm install -g generator-gl-ionic-webpack-typescript-seed
 ```
 
 Run it using Yeoman:
